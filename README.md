@@ -1,4 +1,4 @@
 # Report-automation
-Report automation for a online platform
+Report automation for an online platform
 
 Ongoing project
